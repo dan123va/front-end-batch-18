@@ -1,8 +1,12 @@
 import React from "react";
-import Test from "../components/test"
+import Test from "../components/test";
 
 const Home = () => {
-   return (<Test />)
-}
+  return (
+    <>
+      <Test />
+    </>
+  );
+};
 
-export default Home
+export default Home;
